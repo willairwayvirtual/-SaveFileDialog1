@@ -7,3 +7,4 @@ SaveFileDialog1.ShowDialog()
         My.Computer.FileSystem.WriteAllText(location & ".txt", "" & RouteTextBox1.Text, True)
     End Sub
     Text Files(*.txt)|*.txt|all files|*.*
+fs Flight plan(*.pln)
