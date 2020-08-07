@@ -16,4 +16,4 @@ SaveFileDialog1.ShowDialog()
         
         
         
-        rtie Files(*.txt)|*.txt |flp(*.txt)|  *.txt|all files|*.
+        rtie Files(*.txt)|*.txt |flp(*.txt)|  *.txt|all files|*.         fs Flight plan(*.pln)
